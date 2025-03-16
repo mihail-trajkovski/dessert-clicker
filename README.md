@@ -1,6 +1,6 @@
 # Dessert Clicker App
 
-<img src="homew3ss.png" alt="App Screenshot" width="500" />
+<img src="homew3ss.png" alt="App Screenshot" height="700" />
 
 ## About
 The **Dessert Clicker** app is a simple Android app built with **Jetpack Compose**. Users can click a button to "order" desserts, and the app tracks the number of desserts ordered and the total revenue.
